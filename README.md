@@ -14,7 +14,7 @@ CAN based EV contactor controller with built in pre-charge circuit and pre-charg
  *  Two high curent mosfet outputs to drive Main Contactors.
  *  On-Board precharge ciruit.
  *  Pre-charge complete comparator. 
- *  STM32F103 microprocessor.
+ *  STM32F103C8 microprocessor.  (BluePill compatible)
  *  Arduino IDE - stm32Duino
  *  Two digital inputs.
  *  HSTS21 current sensor input (not required)
